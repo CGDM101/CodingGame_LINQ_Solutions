@@ -1,0 +1,1 @@
+My solutions with accompanying unit tests to the LINQ exercises at https://www.codingame.com/playgrounds/213/using-c-linq---a-practical-overview/welcome
